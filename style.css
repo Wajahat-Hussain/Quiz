@@ -1,0 +1,86 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url("hd.jpg");
+    
+}
+
+
+#header{
+    background:black;
+    box-shadow: 5px 5px  5px #333333;
+    text-align: center;
+    width: 98%;
+  padding: 1%;
+    color: white;
+    
+}
+
+.wellcome{
+    margin-top: 50px;
+    text-align: center;
+}
+.wellcome button{
+    padding: 1% 2%;
+    background: #aaaaaa;
+    border: 1px solid #999999;
+    border-radius: 2px 2px;
+}
+
+#status{
+    text-align: center;
+    padding: 0.5%;
+   
+    color: white;
+    font-size: 25px;
+    
+}
+
+#test{
+    width: 50%;
+    margin: 2% auto   ;
+    padding: 1%;
+    min-height: 370px;
+   color: white;
+    position: relative;
+    font-size: 25px;
+}
+#question{
+    margin-bottom: 5%;
+    padding-bottom: 1%;
+    border-bottom: 1px solid #aaaaaa;
+}
+.optionBtn{
+    
+    margin: 1%;
+}
+#nextBtn{
+    position: absolute;
+    top: 85%;
+    left: 90%;
+    padding: 1% 2%;
+    background: cadetblue;
+    border: 1px solid #999999;
+    border-radius: 2px 2px;
+
+    
+}
+
+#complete{
+    text-align: center;
+    padding: 5%;
+    margin: 5% auto;
+}
+.resultBox{
+    width: 50%;
+    background: black
+ 
+}
+
+#footer{
+    
+    text-align: center;
+    width: 98%;
+    color: #333333;
+     
+}
